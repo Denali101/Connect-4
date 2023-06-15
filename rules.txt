@@ -1,0 +1,11 @@
+Game - Connect 4: 
+Try to build a row of four discs while keeping 
+your opponent from doing the same!
+Objective: 
+Be the first player to get four of your coloured discs 
+in a horizontal, diagonal, or vertical line.
+How to Play: 
+This is a two player game. Game alternates between players 
+until one makes a row of 4 of their discs.
+How to Win: 
+Be the first to make a line of four of your discs!

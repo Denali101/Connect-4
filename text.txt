@@ -1,0 +1,9 @@
+Connect 4
+2 Player Game
+Play
+Rules
+Back
+CONGRATS RED! YOU WIN!
+CONGRATS YELLOW! YOU WIN!
+Again?
+End?
